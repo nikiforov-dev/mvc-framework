@@ -3,7 +3,7 @@
     "description": "MVC Framework",
     "autoload": {
         "psr-4": {
-            "\\MVC\\": "src/"
+            "MVC\\": "src/"
         }
     },
     "authors": [

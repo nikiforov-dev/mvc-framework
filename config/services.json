@@ -1,0 +1,7 @@
+{
+  "services": [
+    {
+      "name": "MVC\\Controller\\AppController"
+    }
+  ]
+}

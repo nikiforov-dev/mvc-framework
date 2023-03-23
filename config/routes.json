@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "name": "index",
+      "route": "/",
+      "method": "GET",
+      "action": "MVC\\Controller\\AppController::index"
+    },
+    {
+      "name": "test",
+      "route": "/test",
+      "method": "GET",
+      "action": "MVC\\Controller\\AppController"
+    }
+  ]
+}

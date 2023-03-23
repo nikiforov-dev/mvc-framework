@@ -1,0 +1,17 @@
+{
+    "name": "nikiforov-dev/mvc-framework",
+    "description": "MVC Framework",
+    "autoload": {
+        "psr-4": {
+            "\\MVC\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danil Nikiforov",
+            "email": "danil.nikiforov.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
